@@ -10,11 +10,11 @@ Email: koenig_julius@proton.me
 
 Please include the following information if you're reporting an issue:
 
-Device model (e.g. iPhone 17 Pro)
-iOS version
-App version
-A brief description of the problem
-Steps to reproduce the issue (if possible)
+- Device model (e.g. iPhone 17 Pro)
+- iOS version
+- App version
+- A brief description of the problem
+- Steps to reproduce the issue (if possible)
 
 ## Frequently Asked Questions
 
